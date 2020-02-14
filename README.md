@@ -1,3 +1,12 @@
+JSX Video API
+
+Testing youtube's v3 video API with some child/parent practice and playing with components. 
+
+Wanted to practice props, passing, states, etc.
+
+//////
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
